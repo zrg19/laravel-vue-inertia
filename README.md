@@ -1,4 +1,4 @@
-<h1 align="center">Website Monitor Laravel Vue Inertia</h1>
+<h1 align="center">Website Monitor Laravel Vue Inertia Tailwind</h1>
 <h3 align="center">A Single page Inertia Vue website for Laravel projects.</h3>
 
 
